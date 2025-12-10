@@ -1,4 +1,4 @@
-# Advanced Static Malware Analysis – IDA Pro (CY3002 Project)
+# Advanced Static Malware Analysis – IDA Pro 
 
 This repository contains the complete static analysis of multiple malware samples using **IDA Pro** as part of the course **Vulnerability Assessment & Reverse Engineering (CY 3002)** at FAST NUCES.  
 The analysis was performed by **Sumera Malik (I21-1579)**.
@@ -147,11 +147,5 @@ The project includes a **27-page PDF** detailing:
 This analysis was performed strictly for **academic and research purposes** on controlled malware samples.  
 Handling malware outside a sandbox or secure lab environment is dangerous and illegal.
 
----
 
-## 👩‍💻 Author
-
-**Sumera Malik**  
-Roll No: **I21-1579**  
-Course: Vulnerability Assessment & Reverse Engineering (CY3002)
 
